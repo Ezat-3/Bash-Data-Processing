@@ -1,0 +1,7 @@
+linux
+docker
+linux
+kubernetes
+docker
+git
+linux
